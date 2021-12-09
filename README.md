@@ -10,6 +10,3 @@ This repository is related to the Google Coding Challenge, assigned at the Brigh
 - Download the project
 - set CMD/terminal address to project dictionary (cd PROJECT_PATH)
 - And run Command: python -m pytest
-
-## All Test Pass - Screenshot:
-![All test Passed!](Screenshots/gcc.png)
